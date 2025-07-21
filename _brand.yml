@@ -1,0 +1,58 @@
+meta:
+  name: 
+    short: njtierney
+    full: Nicholas Tierney Consulting
+  link: 
+    home: https://www.njtierney.com
+    github: https://github.com/njtierney
+    bluesky: https://bsky.app/profile/njtierney.bsky.social 
+  description: |
+    Nicholas Tierney is a statical consultant specialising in using the R 
+    language to solve modern problems.
+  founded: 2024
+
+logo: 
+  images:
+    icon: 
+      path: logos/icon.png
+      alt: "njtierney icon."
+    full:
+      path: logos/full.png
+      alt: "njtierney logo."
+    full-reverse:
+      path: logos/full-reverse.png
+      alt: "njtierney logo."
+  small: icon
+  medium:
+    light: full
+    dark: full-reverse
+  large:
+    light: full
+    dark: full-reverse
+    
+
+color:
+  palette:
+    black: "#1A1A1A"
+    white: "#F9F9F9"
+    orange: "#ffa500"
+    blue: "#268bd2"
+  foreground: black
+  background: white
+  primary: blue
+  danger: orange
+
+typography:
+  fonts:
+    - family: Open Sans
+      source: google
+    - family: Rubik
+      source: google
+    - family: IBM Plex Mono
+      source: google
+
+  base: Open Sans
+  headings:
+    family: Rubik
+    weight: 400
+  monospace: IBM Plex Mono
